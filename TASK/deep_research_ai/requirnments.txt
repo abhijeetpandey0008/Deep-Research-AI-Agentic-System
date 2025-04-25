@@ -1,0 +1,6 @@
+python-dotenv
+langchain
+langgraph
+langchain-core
+langchain-openai
+git+https://github.com/tavily/tavily-python.git
